@@ -64,7 +64,7 @@ getNewQuestion = () => {
   if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
     localStorage.setItem('mostRecentScore', score);
     // go to end page //
-    return window.location.assign("mov_hard_end.html");
+    return window.location.assign("mov_hard_end.php");
   }
   questionCounter++;
   progressText.innerText =`Question ${questionCounter}/${MAX_QUESTIONS}`;
