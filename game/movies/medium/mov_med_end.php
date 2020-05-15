@@ -30,7 +30,7 @@
             </button>
             </form>
             <a class ="btn" href="mov_med.php">Play Again</a>
-            <a class="btn" href="../../../index.php">Go Home</a>
+            <a class="btn" href="../../../main.php">Go Home</a>
         </div>
         <div class ="footer">
             <p>&copy; Copyright 2020 John Griffin - All Rights Reserved</p>

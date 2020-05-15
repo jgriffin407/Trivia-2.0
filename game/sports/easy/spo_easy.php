@@ -13,7 +13,7 @@
         <h1>Easy Sports Trivia</h1>
         <a class="btn" href="spo_easy_game.php">Play</a>
         <a class="btn" href="spo_easy_highscores.php">High Scores</a>
-        <a class="btn" href="../../../index.php">Back to Available Games</a>
+        <a class="btn" href="../../../main.php">Back to Available Games</a>
       </div>
       <div class ="footer">
         <p>&copy; Copyright 2020 John Griffin - All Rights Reserved</p>
