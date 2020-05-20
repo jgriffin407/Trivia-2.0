@@ -9,7 +9,7 @@
     <link rel="icon" type="image/gif/png" href="img/gamepad-solid-16x16.png">
     <link rel="icon" type="image/gif/png" href="img/gamepad-solid-32x32.png">
     <!--Local CSS files-->
-    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
     <div class="grid">
@@ -17,29 +17,29 @@
             <h1>Available Trivia Games</h1>
     <ul>
         <h3>General Knowledge</h3>
-        <li><a class="gamelink" href="game/general/easy/gen_easy.php">Easy</a></li><br/><br/>
-        <li><a class="gamelink" href="game/general/medium/gen_med.php">Medium</a></li><br/><br/>
-        <li><a class="gamelink" href="game/general/hard/gen_hard.php">Hard</a></li><br/><br/>
+        <li><a class="gamelink" href="gen_easy.php">Easy</a></li><br/><br/>
+        <li><a class="gamelink" href="gen_med.php">Medium</a></li><br/><br/>
+        <li><a class="gamelink" href="gen_hard.php">Hard</a></li><br/><br/>
         <h3>Movies</h3>
-        <li><a class="gamelink" href="game/movies/easy/mov_easy.php">Easy</a></li><br/><br/>
-        <li><a class="gamelink" href="game/movies/medium/mov_med.php">Medium</a></li><br/><br/>
-        <li><a class="gamelink" href="game/movies/hard/mov_hard.php">Hard</a></li><br/><br/>
+        <li><a class="gamelink" href="mov_easy.php">Easy</a></li><br/><br/>
+        <li><a class="gamelink" href="mov_med.php">Medium</a></li><br/><br/>
+        <li><a class="gamelink" href="mov_hard.php">Hard</a></li><br/><br/>
         <h3>Music</h3>
-        <li><a class="gamelink" href="game/music/easy/mus_easy.php">Easy</a></li><br/><br/>
-        <li><a class="gamelink" href="game/music/medium/mus_med.php">Medium</a></li><br/><br/>
-        <li><a class="gamelink" href="game/music/hard/mus_hard.php">Hard</a></li><br/><br/>
+        <li><a class="gamelink" href="mus_easy.php">Easy</a></li><br/><br/>
+        <li><a class="gamelink" href="mus_med.php">Medium</a></li><br/><br/>
+        <li><a class="gamelink" href="mus_hard.php">Hard</a></li><br/><br/>
         <h3>Politics</h3>
-        <li><a class="gamelink" href="game/politics/easy/pol_easy.php">Easy</a></li><br/><br/>
-        <li><a class="gamelink" href="game/politics/medium/pol_med.php">Medium</a></li><br/><br/>
-        <li><a class="gamelink" href="game/politics/hard/pol_hard.php">Hard</a></li><br/><br/>
+        <li><a class="gamelink" href="pol_easy.php">Easy</a></li><br/><br/>
+        <li><a class="gamelink" href="pol_med.php">Medium</a></li><br/><br/>
+        <li><a class="gamelink" href="pol_hard.php">Hard</a></li><br/><br/>
         <h3>Sports</h3>
-        <li><a class="gamelink" href="game/sports/easy/spo_easy.php">Easy</a></li><br/><br/>
-        <li><a class="gamelink" href="game/sports/medium/spo_med.php">Medium</a></li><br/><br/>
-        <li><a class="gamelink" href="game/sports/hard/spo_hard.php">Hard</a></li><br/><br/>
+        <li><a class="gamelink" href="spo_easy.php">Easy</a></li><br/><br/>
+        <li><a class="gamelink" href="spo_med.php">Medium</a></li><br/><br/>
+        <li><a class="gamelink" href="spo_hard.php">Hard</a></li><br/><br/>
         <h3>Television</h3>
-        <li><a class="gamelink" href="game/television/easy/tel_easy.php">Easy</a></li><br/><br/>
-        <li><a class="gamelink" href="game/television/medium/tel_med.php">Medium</a></li><br/><br/>
-        <li><a class="gamelink" href="game/television/hard/tel_hard.php">Hard</a></li><br/><br/>
+        <li><a class="gamelink" href="tel_easy.php">Easy</a></li><br/><br/>
+        <li><a class="gamelink" href="tel_med.php">Medium</a></li><br/><br/>
+        <li><a class="gamelink" href="tel_hard.php">Hard</a></li><br/><br/>
     </ul>
         </div>
     <div class="footer">
